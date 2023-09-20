@@ -17,7 +17,7 @@ def tamKare(ilk, son) :
     while ((n2 >= ilk and n2 <= son)) :
  
         # Tam kareyi yazdırma
-        print(n2, end= " ");
+        print(n2, bitis= " ");
  
         # Bir sonraki numarayı elde etme
         n2 = n2 + n1;
